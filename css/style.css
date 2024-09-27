@@ -23,6 +23,7 @@ html {
  *
  * Customize the background color to match your design.
  */
+body {   text-align: center; }
 
 ::-moz-selection {
   background: #b3d4fc;
